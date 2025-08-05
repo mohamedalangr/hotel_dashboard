@@ -1,2 +1,33 @@
-# hotel_dashboard
-📊 An interactive Streamlit dashboard for hotel managers to monitor bookings, cancellations, ADR, room mismatches, and guest behavior. Includes KPIs, time series, and insights for strategic decision-making. Built with Python, Pandas, and Plotly.
+# 🏨 Hotel Booking Dashboard
+
+A Streamlit dashboard designed for hotel managers to monitor booking patterns, cancellations, revenue, guest behavior, and operational trends.
+
+## 🚀 Features
+
+- KPIs: Total bookings, ADR, lead time, cancellations, etc.
+- Interactive charts (Plotly)
+- Filters by date, hotel, status, customer type
+- Time series + categorical visuals
+- Room mismatch and special request monitoring
+- Data export
+
+## 📦 Technologies
+
+- Python
+- Streamlit
+- Plotly
+- Pandas
+
+## 📂 Files
+
+- `app.py`: Streamlit dashboard app
+- `cleaned_hotels.csv`: Cleaned dataset
+- `requirements.txt`: Environment dependencies
+
+## 📈 Try It Live
+
+Deployed on [Streamlit Cloud](https://YOUR-STREAMLIT-LINK-HERE)
+
+---
+
+Made with ❤️ by Mohamed Fathy
