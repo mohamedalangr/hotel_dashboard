@@ -129,4 +129,5 @@ st.markdown("- 🔁 Loyalty is low: only **3.19%** of guests are repeat visitors
 
 # -------------------- Footer --------------------
 st.markdown("---")
-st.markdown("Built for hotel operations and strategy. | Powered by Streamlit | Mohamed - Task 9")
+st.markdown("Built for hotel operations and strategy. | Powered by Streamlit | Mohamed Fathy ")
+
