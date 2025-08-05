@@ -26,7 +26,7 @@ A Streamlit dashboard designed for hotel managers to monitor booking patterns, c
 
 ## 📈 Try It Live
 
-Deployed on [Streamlit Cloud](https://YOUR-STREAMLIT-LINK-HERE)
+Deployed on [Streamlit Cloud](https://hoteldashboard.streamlit.app/)
 
 ---
 
